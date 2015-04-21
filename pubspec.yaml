@@ -1,0 +1,10 @@
+name: coinbase
+description: >
+  A library useful for applications or for sharing on pub.dartlang.org.
+version: 0.0.1
+#author: <your name> <email@example.com>
+#homepage: https://www.example.com
+dependencies:
+  http: ">=0.11.2 <0.12.0"
+dev_dependencies:
+  unittest: any
